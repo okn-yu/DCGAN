@@ -1,5 +1,6 @@
 # Abstract
-* Implementation of "Attention is All You Need".
+* Implementation of "UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL
+GENERATIVE ADVERSARIAL NETWORKS".
 * https://arxiv.org/pdf/1511.06434.pdf
 
 # Detailed description of DCGAN
